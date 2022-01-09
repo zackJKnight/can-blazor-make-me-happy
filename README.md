@@ -27,9 +27,19 @@ I suspect that we did not get enough hands-on time to evaluate whether we enjoy 
 
 ### Anatomy
 
+Files, markup, code, components, styling, etc.
+
 ### State Management
 
+How does Blazor manage state?
+
 ### Tools
+
+IDEs, Build tools, SDKs, Packages
+
+### Community
+
+Learning more, shared controls, help.
 
 ## Source Material
 
@@ -37,3 +47,10 @@ Dan Roth, program manager at MS gives an overview of blazor in .NET 6
 
 https://youtu.be/GKu-vRxOWr8
 
+Jason Taylor, covers Blazor in .NET 6
+
+https://youtu.be/lRYrhj9lwQk
+
+Tim Corey, Blazor Updates in .NET 6
+
+https://youtu.be/wT9EOfLghlY
