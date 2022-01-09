@@ -43,14 +43,18 @@ Learning more, shared controls, help.
 
 ## Source Material
 
-Dan Roth, program manager at MS gives an overview of blazor in .NET 6
+[Steve Sanderson, Blazor Papa Blows Your Mind](https://youtu.be/kesUNeBZ1Os)
 
-https://youtu.be/GKu-vRxOWr8
+[Dan Roth, program manager at MS gives an overview of blazor in .NET 6](https://youtu.be/GKu-vRxOWr8)
 
-Jason Taylor, covers Blazor in .NET 6
+[Jason Taylor, covers Blazor in .NET 6](https://youtu.be/lRYrhj9lwQk)
 
-https://youtu.be/lRYrhj9lwQk
+[Tim Corey, Blazor Updates in .NET 6](https://youtu.be/wT9EOfLghlY)
 
-Tim Corey, Blazor Updates in .NET 6
+[Razor Syntax](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-6.0)
 
-https://youtu.be/wT9EOfLghlY
+[Emscripten - the Blazor WebAssembly Toolchain](https://emscripten.org)
+
+Time spent on talk:
+1/8/22 - 1 hour
+1/9/22 - 2 hours
