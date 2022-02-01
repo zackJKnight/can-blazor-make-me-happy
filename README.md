@@ -126,6 +126,7 @@ Time spent on talk:
 1/16/22 - .5 hour
 1/18/22 - 1 hour
 1/30/22 - 3 hours
+1/31/22 - 1 hour (skia - fill points in a circle)
 
 ## Graphics
 
@@ -137,3 +138,12 @@ Time spent on talk:
 
 IDE syntax checking and compile error intellisense. Maybe this is a problem with Skia, but in VS for Mac, there was no build error. In visual studio there was a build error, but nothing in the editor gave an indication of the problem.
 
+## Inspiration
+
+[Polygon Explorer](https://www.visnos.com/demos/polygon-explorer)
+
+[Distribute Points in a Circle](https://www.wolframcloud.com/objects/demonstrations/SunflowerSeedArrangements-source.nb)
+
+```csharp
+const double GoldenRatio = 1.61803398874989484820458683436;
+```
