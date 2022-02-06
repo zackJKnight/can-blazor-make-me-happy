@@ -118,16 +118,6 @@ Update - I have since learned that Nouman Ali Khan has been #metoo'd.
 [Trains Game](https://wengier.com/Trains.NET/)
 
 
-
-Time spent on talk:
-1/8/22 - 1 hour
-1/9/22 - 2 hours
-1/15/22 - .5 hour
-1/16/22 - .5 hour
-1/18/22 - 1 hour
-1/30/22 - 3 hours
-1/31/22 - 1 hour (skia - fill points in a circle)
-
 ## Graphics
 
 [ANGLE](https://chromium.googlesource.com/angle/angle/+/main/README.md)
@@ -138,12 +128,27 @@ Time spent on talk:
 
 IDE syntax checking and compile error intellisense. Maybe this is a problem with Skia, but in VS for Mac, there was no build error. In visual studio there was a build error, but nothing in the editor gave an indication of the problem.
 
+Debugging a blazor app on mac doesn't work in vscode. You have to do a research project to figure it out. it works in Visual Studio for Mac (preview) if you use Chrome. If you target Firefox, it doesn't work. No message as to why. Goodbye 1.5 hours.
+
 ## Inspiration
 
 [Polygon Explorer](https://www.visnos.com/demos/polygon-explorer)
 
-[Distribute Points in a Circle](https://www.wolframcloud.com/objects/demonstrations/SunflowerSeedArrangements-source.nb)
+[Distribute Points on a Circle - SO](https://stackoverflow.com/questions/28567166/uniformly-distribute-x-points-inside-a-circle)
+
+[Distribute Points on a Circle](https://www.wolframcloud.com/objects/demonstrations/SunflowerSeedArrangements-source.nb)
 
 ```csharp
 const double GoldenRatio = 1.61803398874989484820458683436;
 ```
+
+## Time spent on talk:
+
+1/8/22 - 1 hour
+1/9/22 - 2 hours
+1/15/22 - .5 hour
+1/16/22 - .5 hour
+1/18/22 - 1 hour
+1/30/22 - 3 hours
+1/31/22 - 1 hour (skia - fill points in a circle)
+2/4/22 - 1.5 figure out how to debug wasm
