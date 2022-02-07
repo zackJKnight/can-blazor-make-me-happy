@@ -72,7 +72,7 @@ Learning more, shared controls, help.
 
 [Steve Sanderson, Blazor Papa Blows Your Mind](https://youtu.be/kesUNeBZ1Os)
 
-[SkiaSharp in Blazor WASM](https://www.youtube.com/watch?v=lVWQkpcVEWQ&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=2)
+[Matthew Leibowitz, SkiaSharp in Blazor WASM](https://www.youtube.com/watch?v=lVWQkpcVEWQ&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=2)
 
 [Dan Roth, program manager at MS gives an overview of blazor in .NET 6](https://youtu.be/GKu-vRxOWr8)
 
@@ -117,6 +117,7 @@ Update - I have since learned that Nouman Ali Khan has been #metoo'd.
 
 [Trains Game](https://wengier.com/Trains.NET/)
 
+[I forked @mattleibow's fantastic demo repo](https://github.com/zackJKnight/BlazorWebAssemblyDemos/blob/main/BlazorWebAssemblyDemos/Pages/J_SkiaSharpGPU_Play.razor)
 
 ## Graphics
 
@@ -152,3 +153,5 @@ const double GoldenRatio = 1.61803398874989484820458683436;
 1/30/22 - 3 hours
 1/31/22 - 1 hour (skia - fill points in a circle)
 2/4/22 - 1.5 figure out how to debug wasm
+2/6/22 - 1 hour learn about fast ui
+
