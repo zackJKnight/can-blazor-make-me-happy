@@ -129,7 +129,12 @@ Update - I have since learned that Nouman Ali Khan has been #metoo'd.
 
 IDE syntax checking and compile error intellisense. Maybe this is a problem with Skia, but in VS for Mac, there was no build error. In visual studio there was a build error, but nothing in the editor gave an indication of the problem.
 
-Debugging a blazor app on mac doesn't work in vscode. You have to do a research project to figure it out. it works in Visual Studio for Mac (preview) if you use Chrome. If you target Firefox, it doesn't work. No message as to why. Goodbye 1.5 hours.
+This is a problem in trying to use Fast or Fluent UI components. No help from the editor. Controls aren't showing up.
+
+Debugging a blazor app on mac doesn't 'just work' work in vscode. You have to do a research project to figure it out. it works in Visual Studio for Mac (preview) if you use Chrome. If you target Firefox, it doesn't work. No message as to why. Goodbye 1.5 hours.
+
+Simple errors aren't indicated in the tooling:
+![Errors for easy stuff](/images/blazorise_icons_error.png)
 
 ## Inspiration
 
