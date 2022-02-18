@@ -159,5 +159,6 @@ const double GoldenRatio = 1.61803398874989484820458683436;
 1/31/22 - 1 hour (skia - fill points in a circle)
 2/4/22 - 1.5 figure out how to debug wasm
 2/6/22 - 1 hour learn about fast ui
+there was a half hour in here trying blazorise
 2/13/22 - 1 hour implementing sliders and color picker
 
